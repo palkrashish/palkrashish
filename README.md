@@ -1,10 +1,4 @@
 
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Ashish, JavaScript(ReactJS) Developer 👨‍💻 working at TCS 🚀</div>  
   
 
